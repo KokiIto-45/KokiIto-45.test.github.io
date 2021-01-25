@@ -1,0 +1,83 @@
+*{
+    margin:0;
+    padding:0;
+    }
+body{
+    background-image :url("https://www.nintendo.co.jp/switch/aab6a/assets/images/top_sec01_bg_l.png");
+}
+header{
+    height: 130px;
+    background-color:rgba(255, 255, 255, 0.3);
+}
+.logo-part{
+    float: left;
+}
+.logo{
+    width: 240px;
+    opacity:1;
+}
+header  p{
+    font-family: fantasy;
+}
+
+.main-title{
+ width: 100%;   
+ line-height: 0;
+}
+.header-list{
+    float: right;
+    
+}
+header li{
+    list-style: none;
+    padding:10px 0px;
+    cursor: pointer;
+   
+}
+header li:hover{
+    opacity: 0.8;
+    background-color: rgba(255, 255, 255, 0.3);
+    
+}
+.main-intro{
+    text-align: center;
+}
+.battle-rules{
+    padding:20px 40px;
+}
+.rule{
+
+    text-align: center;
+}
+main img{
+    display: block;
+    margin: 0 auto;
+    
+}
+.gachi{
+padding-top: 30px;
+}
+footer{
+    background-color:rgba(255, 255, 255, 0.3);
+    height: 50px;
+    margin-top: 50px;
+}
+.footer-logo img{
+    width: 50px;
+    float:left;
+}
+footer ul{
+    list-style: none;
+    float: right;
+}
+footer li{
+    display: inline-block;
+    padding:15px;
+    cursor: pointer;
+    
+
+}
+footer li:hover{
+    opacity: 0.8;
+    background-color: rgba(255, 255, 255, 0.3);
+}
