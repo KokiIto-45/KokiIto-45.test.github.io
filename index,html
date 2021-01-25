@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="stylesheet.css">
+    <meta charset="utf-8">
+    <title>Progate</title>
+  </head>
+  <body>
+    <header>
+      <div class="logo-part">
+        <img class="logo" src="logo_splatoon.png">
+        <p>スプラトゥーン2非公式サイト</p>
+      </div>
+      <div class="header-list">
+        <ul>
+          <li>商品情報</li>
+          <li>総合問い合わせ</li>
+          <li>My Nintendo Store</li>
+        </ul>
+      </div>
+      
+    </header>  
+    <main>
+      <div>
+       <img class="main-title" src="https://i.pinimg.com/originals/1c/ea/43/1cea43e7f4ab4985662a95309971f2ad.png">
+      </div>
+      <div class="main-intro">
+        <img src="ika.png">
+      </div>
+      <div class="battle-rules">
+        <div class="nawabari rule">
+          <img src="ika (1).png">
+          <img class="nawabari-int" src="battle-sec01_copy.png">
+
+        </div>
+        <div class="gachi rule">
+          <img src="ika (2).png">
+          <img class="gachi-int" src="battle-sec02_copy.webp">
+        </div>
+      </div>    
+    </main>
+    <footer>
+      <div class="footer-logo">
+        <img src="Nintendo_Switch_Logo_(without_text).svg.png">
+      </div>
+      <div class="footer-list">
+        <ul>
+          <li>会社概要</li>
+          <li>採用情報</li>
+          <li>プライバシーポリシー</li>
+        </ul>
+      </div>
+    </footer>
+  </body>
+</html>
